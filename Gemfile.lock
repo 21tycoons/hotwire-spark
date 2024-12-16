@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hotwire_spark (0.0.1)
+    hotwire.spark (0.0.1)
       rails (>= 8.0.0)
 
 GEM
@@ -239,7 +239,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  hotwire_spark!
+  hotwire.spark!
   importmap-rails
   propshaft
   puma
