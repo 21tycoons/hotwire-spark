@@ -1,7 +1,7 @@
 require_relative "lib/hotwire_spark/version"
 
 Gem::Specification.new do |spec|
-  spec.name        = "hotwire-spark"
+  spec.name        = "turbo-spark"
   spec.version     = HotwireSpark::VERSION
   spec.authors     = [ "Jorge Manrubia" ]
   spec.email       = [ "jorge@37signals.com" ]
